@@ -1,6 +1,7 @@
 .{
-    .name = .wombat_cc_lib_cpp_template,
+    .name = .wombat_cc_lib_utilities,
     .version = "0.1.0",
+    .fingerprint = 0x68f6c88539d0f6a,
     .minimum_zig_version = "0.16.0",
     .paths = .{
         "build.zig",
