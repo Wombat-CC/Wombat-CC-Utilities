@@ -30,7 +30,7 @@ namespace Wombat_CC
      *
      * @note Testing only. Do not enable this during competition runs.
      */
-    void Utilities::autokill()
+    void Utilities::ActivateKillSwitch()
     {
         std::thread([]()
                     {

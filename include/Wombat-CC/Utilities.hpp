@@ -38,7 +38,7 @@ namespace Wombat_CC
          *
          * @note Testing only. Do not enable this during competition runs.
          */
-        static void autokill();
+        static void ActivateKillSwitch();
 
         /**
          * @brief Blocks until the light sensor sees a value below threshold.
